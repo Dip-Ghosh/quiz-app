@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://dip-upcoming-year-count-down.netlify.app/" target="_blank">
-<img src="img/project-img.png" width="400" alt="QR Scanner Logo"></a></p>
+<a href="https://dip-quiz-app.netlify.app/" target="_blank">
+<img src="img/project-img.png" width="400" alt="Quiz app Logo"></a></p>
 
 
 ## About Countdown Timer
@@ -11,7 +11,7 @@ This project is about the simple quiz app.
 ## Visit Link
 
 We would like to extend our thanks to the following sponsors for funding development.
-If you are interested in becoming a sponsor, please visit the https://dip-upcoming-year-count-down.netlify.app/
+If you are interested in becoming a sponsor, please visit the https://dip-quiz-app.netlify.app/
 
 
 
